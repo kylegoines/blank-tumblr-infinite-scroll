@@ -12,4 +12,4 @@ This theme features the infinite scrolling feature and implementation by [Cody S
 * Infinite scrolling tutorails i found didnt work, are confusing, or out of date.
 
 
-##Built out of necessity, sharing out of freindship <3 <3
+##Built out of necessity, sharing out of friendship <3
