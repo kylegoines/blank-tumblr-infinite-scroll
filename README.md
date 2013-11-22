@@ -1,4 +1,4 @@
-# Blank Infinite Scroll Tumblr
+# Blank Tumblr Theme Featuring... Infinite Scroll!
 
 This is a super blank barebones tumblr theme.
 This theme features the infinite scrolling feature and implementation by [Cody Sherman](http://codysherman.com/).
@@ -9,7 +9,7 @@ This theme features the infinite scrolling feature and implementation by [Cody S
 * Rebuilt for HTML5
 * Removed Opinionated IDs
 * Removed unecessary Twitter api
-* Infinite scrolling tutorails i found didnt work, are confusing, or out of date.
+* Infinite scrolling tutorails I found didnt work, are confusing, or out of date.
 
 
 ##Built out of necessity, sharing out of friendship <3
